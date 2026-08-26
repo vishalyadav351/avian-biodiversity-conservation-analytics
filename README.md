@@ -57,12 +57,3 @@ python scripts/save_to_sql.py
 3. Open the DashboardLaunch Microsoft Power BI Desktop.Open dashboard/Bird_Observation_Analysis.pbix[cite: 3].💡 Key Strategic RecommendationsPrioritize Acoustic Survey Windows: Over 80% of bird detections occur via vocalizations; surveys conducted during high wind or environmental disturbance suffer significant yield drops[cite: 3].Target High-Priority Hotspots: Conservation funding and forest fragmentation mitigation should target Prince William Forest Park (PRWI) and Catoctin Mountain Park (CATO) due to dense Watchlist species populations[cite: 3].👤 AuthorDeveloper: Vishal YadavDomain: Conservation Informatics & Data Analytics[cite: 3]
 ---
 
-**GitHub Upload Commands:**
-
-```bash
-git init
-git add .
-git commit -m "feat: complete bird observation data pipeline, SQLite db and Power BI report"
-git branch -M main
-git remote add origin https://github.com/<your-username>/avian-biodiversity-conservation-analytics.git
-git push -u origin main
